@@ -1,0 +1,1 @@
+# WITH-combine-AS-SELECT-FROM-users-JOIN-progress-ON-users.user_id-progress.-user_id-classes
